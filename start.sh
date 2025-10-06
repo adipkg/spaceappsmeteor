@@ -1,4 +1,4 @@
 #!/bin/bash
 cd backend
-python app.py
+python3 app.py
 echo running
